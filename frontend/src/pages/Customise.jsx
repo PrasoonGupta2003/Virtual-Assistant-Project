@@ -1,6 +1,6 @@
 import React, { useRef, useState, useContext } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { userDataContext } from '../context/userContext';
+import { userDataContext } from '../context/UserContext';
 import { MdKeyboardBackspace } from "react-icons/md";
 import { RiImageAddLine } from "react-icons/ri";
 
