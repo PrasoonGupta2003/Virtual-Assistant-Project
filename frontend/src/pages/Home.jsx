@@ -139,7 +139,7 @@ function Home() {
             History <FaHistory size={16} />
             </button>
         </div>
-        )};   
+        )}  
 
       {/* Assistant Avatar */}
       <div className="w-60 h-80 sm:w-72 sm:h-96 flex justify-center items-center overflow-hidden rounded-2xl shadow-2xl border-2 border-white">
