@@ -55,7 +55,7 @@ const History = () => {
       <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 mb-6">
         <button
           onClick={() => navigate("/")}
-          className="text-cyan-400 underline text-sm font-medium hover:text-cyan-300 transition-all"
+          className="text-cyan-400 underline text-lg font-medium hover:text-cyan-300 transition-all"
         >
           ⬅ Back to Assistant
         </button>
