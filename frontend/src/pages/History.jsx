@@ -1,6 +1,6 @@
 import React, { useEffect, useState, useContext } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { userDataContext } from '../context/userContext';
+import { userDataContext } from '../context/UserContext';
 
 const History = () => {
   const navigate = useNavigate();
